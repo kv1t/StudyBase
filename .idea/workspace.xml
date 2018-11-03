@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a66efb0-6e19-4551-8795-8388af2bcf5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dz04/dz04_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz04/dz04_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz04/dz04_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz04/dz04_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz05/dz05_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz05/dz05_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz05/dz05_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dz05/dz05_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dz05/dz05_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,21 +14,35 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/studyBase$dz01.coverage" NAME="dz01 Coverage Results" MODIFIED="1540104589443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/StudyBase$dz04_2.coverage" NAME="dz04_2 Coverage Results" MODIFIED="1540710353987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz05_2__1_.coverage" NAME="dz05_2 (1) Coverage Results" MODIFIED="1540736558813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
     <SUITE FILE_PATH="coverage/StudyBase$dz04_5.coverage" NAME="dz04_5 Coverage Results" MODIFIED="1540730075873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
     <SUITE FILE_PATH="coverage/StudyBase$dz03_4.coverage" NAME="dz03_4 Coverage Results" MODIFIED="1540384968465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/StudyBase$dz03_1.coverage" NAME="dz03_1 Coverage Results" MODIFIED="1540381899362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz03_3.coverage" NAME="dz03_3 Coverage Results" MODIFIED="1540384502477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz04_1.coverage" NAME="dz04_1 Coverage Results" MODIFIED="1540709967191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz05_3.coverage" NAME="dz05_3 Coverage Results" MODIFIED="1540733595265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
+    <SUITE FILE_PATH="coverage/StudyBase$7_while_else_break.coverage" NAME="7_while_else_break Coverage Results" MODIFIED="1540997814506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$11_for_else.coverage" NAME="11_for_else Coverage Results" MODIFIED="1540998110024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz05_3.coverage" NAME="dz05_3 Coverage Results" MODIFIED="1540735760096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
     <SUITE FILE_PATH="coverage/StudyBase$dz03_7.coverage" NAME="dz03_7 Coverage Results" MODIFIED="1540388153601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz03_2.coverage" NAME="dz03_2 Coverage Results" MODIFIED="1540383952938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz04_4.coverage" NAME="dz04_4 Coverage Results" MODIFIED="1540721178826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz05_2.coverage" NAME="dz05_2 Coverage Results" MODIFIED="1540732030223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
-    <SUITE FILE_PATH="coverage/StudyBase$dz05_1.coverage" NAME="dz05_1 Coverage Results" MODIFIED="1540730434878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
+    <SUITE FILE_PATH="coverage/StudyBase$10_for.coverage" NAME="10_for Coverage Results" MODIFIED="1540998038308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz04_4.coverage" NAME="dz04_4 Coverage Results" MODIFIED="1540736070385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz05_2.coverage" NAME="dz05_2 Coverage Results" MODIFIED="1541279307421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
+    <SUITE FILE_PATH="coverage/StudyBase$2while_infinite.coverage" NAME="2while_infinite Coverage Results" MODIFIED="1540997275949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$6while_else.coverage" NAME="6while_else Coverage Results" MODIFIED="1540997768278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
     <SUITE FILE_PATH="coverage/StudyBase$dz03_6.coverage" NAME="dz03_6 Coverage Results" MODIFIED="1540385990578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/studyBase$dz01__1_.coverage" NAME="dz01 (1) Coverage Results" MODIFIED="1540105483890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz03_3.coverage" NAME="dz03_3 Coverage Results" MODIFIED="1540384502477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz04_1.coverage" NAME="dz04_1 Coverage Results" MODIFIED="1540709967191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz03_2.coverage" NAME="dz03_2 Coverage Results" MODIFIED="1540383952938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StudyBase$00while.coverage" NAME="00while Coverage Results" MODIFIED="1540997226616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$12_for_continue.coverage" NAME="12_for_continue Coverage Results" MODIFIED="1540998190304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$dz05_1.coverage" NAME="dz05_1 Coverage Results" MODIFIED="1540730434878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz05" />
+    <SUITE FILE_PATH="coverage/StudyBase$9_for.coverage" NAME="9_for Coverage Results" MODIFIED="1540997922703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$05_simple_function.coverage" NAME="05-simple-function Coverage Results" MODIFIED="1540999837266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_05/function_1" />
+    <SUITE FILE_PATH="coverage/StudyBase$00_simple_procedure.coverage" NAME="00-simple-procedure Coverage Results" MODIFIED="1540998360650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_05/function_1" />
     <SUITE FILE_PATH="coverage/StudyBase$dz03_5.coverage" NAME="dz03_5 Coverage Results" MODIFIED="1540385404629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/StudyBase$dz04_3.coverage" NAME="dz04_3 Coverage Results" MODIFIED="1540725171968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dz04" />
+    <SUITE FILE_PATH="coverage/StudyBase$1while.coverage" NAME="1while Coverage Results" MODIFIED="1540997252814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$13_nested_loops.coverage" NAME="13_nested_loops Coverage Results" MODIFIED="1540998290570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
+    <SUITE FILE_PATH="coverage/StudyBase$8_for.coverage" NAME="8_for Coverage Results" MODIFIED="1540997896243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/pythonExamples/Lesson_04/004_Examples" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -88,10 +97,10 @@
     <session id="-1050951006">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -99,12 +108,12 @@
           <entry key="dz05_1" value="1" />
           <entry key="dz05_2" value="1" />
           <entry key="dz05_3" value="1" />
-          <entry key="py" value="17" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="20" />
+          <entry key="Python" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -113,55 +122,19 @@
           <entry key="dz05_1" value="117" />
           <entry key="dz05_2" value="354" />
           <entry key="dz05_3" value="825" />
-          <entry key="py" value="3783" />
+          <entry key="py" value="4125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="5079" />
+          <entry key="Python" value="5421" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dz04/dz04_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dz04/dz04_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dz04/dz04_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dz04/dz04_4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dz05/dz05_1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,31 +144,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dz05/dz05_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <marker date="1540732246512" expanded="true" signature="11:16" ph="..." />
-                <marker date="1540732246512" expanded="true" signature="42:47" ph="..." />
-                <marker date="1540732246512" expanded="true" signature="77:108" ph="..." />
+                <marker date="1541279307395" expanded="true" signature="11:16" ph="..." />
+                <marker date="1541279307395" expanded="true" signature="42:47" ph="..." />
+                <marker date="1541279307395" expanded="true" signature="93:124" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/pythonExamples/Lesson_03/9_conditional_expression.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dz05/dz05_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="646">
               <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <marker date="1540734059679" expanded="true" signature="14:19" ph="..." />
-                <marker date="1540734059679" expanded="true" signature="48:53" ph="..." />
-                <marker date="1540734059679" expanded="true" signature="121:206" ph="..." />
-                <marker date="1540734059679" expanded="true" signature="219:224" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -243,6 +215,9 @@
         <option value="$PROJECT_DIR$/dz05/dz05_2" />
         <option value="$PROJECT_DIR$/dz05/dz05_3" />
         <option value="$PROJECT_DIR$/dz05/dz05_3.py" />
+        <option value="C:/pythonExamples/Lesson_04/004_Examples/11_for_else.py" />
+        <option value="C:/pythonExamples/Lesson_04/004_Examples/13_nested_loops.py" />
+        <option value="$PROJECT_DIR$/dz05/dz05_2.py" />
       </list>
     </option>
   </component>
@@ -253,8 +228,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="381" />
-    <option name="y" value="152" />
+    <option name="x" value="113" />
+    <option name="y" value="41" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -264,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,13 +261,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="C:/pythonExamples/Lesson_05/function_1/06-procedures-as-functions.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -308,7 +283,95 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dz05_3">
+  <component name="RunManager" selected="Python.dz05_2">
+    <configuration name="00-simple-procedure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StudyBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/pythonExamples/Lesson_05/function_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/pythonExamples/Lesson_05/function_1/00-simple-procedure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-simple-function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StudyBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/pythonExamples/Lesson_05/function_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/pythonExamples/Lesson_05/function_1/05-simple-function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_for_continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StudyBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/pythonExamples/Lesson_04/004_Examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/pythonExamples/Lesson_04/004_Examples/12_for_continue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13_nested_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="StudyBase" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/pythonExamples/Lesson_04/004_Examples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/pythonExamples/Lesson_04/004_Examples/13_nested_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dz01 (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="studyBase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,72 +394,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dz04_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="StudyBase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dz04/dz04_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dz04_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="StudyBase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dz04/dz04_5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dz05_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="StudyBase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\pythonApps\StudyBase\dz05\dz05_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="dz05_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="StudyBase" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -410,29 +407,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\pythonApps\StudyBase\dz05\dz05_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dz05_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="StudyBase" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dz05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\pythonApps\StudyBase\dz05\dz05_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dz05/dz05_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,19 +418,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.dz01 (1)" />
-      <item itemvalue="Python.dz04_3" />
-      <item itemvalue="Python.dz04_5" />
-      <item itemvalue="Python.dz05_1" />
+      <item itemvalue="Python.12_for_continue" />
+      <item itemvalue="Python.13_nested_loops" />
+      <item itemvalue="Python.00-simple-procedure" />
+      <item itemvalue="Python.05-simple-function" />
       <item itemvalue="Python.dz05_2" />
-      <item itemvalue="Python.dz05_3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dz05_3" />
         <item itemvalue="Python.dz05_2" />
-        <item itemvalue="Python.dz05_1" />
-        <item itemvalue="Python.dz04_5" />
-        <item itemvalue="Python.dz04_3" />
+        <item itemvalue="Python.05-simple-function" />
+        <item itemvalue="Python.00-simple-procedure" />
+        <item itemvalue="Python.13_nested_loops" />
+        <item itemvalue="Python.12_for_continue" />
       </list>
     </recent_temporary>
   </component>
@@ -482,15 +457,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="113" y="41" width="1400" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2292176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28880596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4987775" weight="0.32922733" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49755502" visible="true" weight="0.32922733" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49755502" visible="true" weight="0.3512545" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -578,20 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/121723227/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="4130" column="8" selection-start-line="4130" selection-start-column="8" selection-end-line="4130" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dz04/dz04_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dz04/dz04_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -606,10 +567,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dz04/dz04_5.py">
+    <entry file="file://$PROJECT_DIR$/dz04/dz04_5.py" />
+    <entry file="file://$PROJECT_DIR$/dz04/dz04_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -620,6 +582,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/00while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/1while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/2while_infinite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/03break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/4break.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/5continue.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/6while_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/7_while_else_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/8_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/9_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/10_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/11_for_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/12_for_continue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_04/004_Examples/13_nested_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_05/function_1/00-simple-procedure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_05/function_1/01-procedure-with-parameter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_05/function_1/02-using-builtin-functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_05/function_1/03-multiple-functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_05/function_1/06-procedures-as-functions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_05/function_1/05-simple-function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dz05/dz05_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -627,27 +705,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dz05/dz05_2.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/121723227/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1540732246512" expanded="true" signature="11:16" ph="..." />
-            <marker date="1540732246512" expanded="true" signature="42:47" ph="..." />
-            <marker date="1540732246512" expanded="true" signature="77:108" ph="..." />
-          </folding>
+        <state relative-caret-position="-13">
+          <caret line="463" column="7" selection-start-line="463" selection-start-column="7" selection-end-line="463" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dz05/dz05_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="646">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_03/11str-oper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/pythonExamples/Lesson_03/9_conditional_expression.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz05/dz05_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <marker date="1540734059679" expanded="true" signature="14:19" ph="..." />
-            <marker date="1540734059679" expanded="true" signature="48:53" ph="..." />
-            <marker date="1540734059679" expanded="true" signature="121:206" ph="..." />
-            <marker date="1540734059679" expanded="true" signature="219:224" ph="..." />
+            <marker date="1541279307395" expanded="true" signature="11:16" ph="..." />
+            <marker date="1541279307395" expanded="true" signature="42:47" ph="..." />
+            <marker date="1541279307395" expanded="true" signature="93:124" ph="..." />
           </folding>
         </state>
       </provider>
